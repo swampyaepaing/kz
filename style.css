@@ -1,0 +1,66 @@
+body {
+
+  text-align: center;
+
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  height: 2rem;
+  padding-top: 30px;
+
+}
+p {font-family: 'Prompt', sans-serif;
+padding-top: 20px;
+width: 30%;
+margin: 30px auto 30px auto;
+padding-top: 20px;
+
+
+
+}
+.first-div {position: relative;
+  background-color: #a5ecd7;
+
+  padding-top: 30px;
+  margin: 0 auto 30px;
+
+}
+.mountain {position: relative;
+  margin: 30px auto 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin-right: 90px;
+}
+.upper-cloud {margin-right: 610px;
+
+}
+
+.second-div{
+
+}
+
+.me {max-width: 25%;
+  padding-top: 30px;
+
+}
+hr {margin: 30px auto 30px;
+width: 5%;
+border-style: dotted;
+border-bottom: none;
+height: 0;
+;}
+.kz {
+  width: 30%;
+  margin: 10px auto 30px auto;
+  padding-bottom: 20px;
+}
+.links {
+
+;
+padding-top: 10px;
+height: 30px;
+margin-left: 0;
+margin-right: 0;
+}
